@@ -1,7 +1,8 @@
 import "./App.css";
+import ForgotPassword from "./Components/ForgotPassword";
 
 function App() {
-  return <></>;
+  return <ForgotPassword />;
 }
 
 export default App;
